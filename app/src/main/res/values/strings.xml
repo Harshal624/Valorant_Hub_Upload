@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Valorant Hub Upload</string>
+    <string-array name="team">
+    <item>Team</item>
+    <item>attacker</item>
+    <item>defender</item></string-array>
+    <string-array name="site">
+        <item>Site</item>
+        <item>a site</item>
+        <item>b site</item>
+        <item>c site</item>
+    </string-array>
+    <string-array name="type">
+        <item>Type</item>
+        <item>retake</item>
+        <item>one-way</item>
+        <item>afterplant</item>
+    </string-array>
+
+</resources>
